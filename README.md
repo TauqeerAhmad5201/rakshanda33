@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakshanda
-- 👀 I’m interested in graphic designing
-- 🌱 I’m currently learning web development
+- 👀 Currently working on my skills.
+- 🌱 I’m currently learning web development.
 
 <!---
 rakshanda33/rakshanda33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
